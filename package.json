@@ -1,0 +1,19 @@
+{
+  "name": "reactor-incremental-like",
+  "version": "1.0.0",
+  "description": "Playing around with concepts in the game Reactor Incremental",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theofficetroll/reactor-incremental-like.git"
+  },
+  "author": "Mark Scrudder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theofficetroll/reactor-incremental-like/issues"
+  },
+  "homepage": "https://github.com/theofficetroll/reactor-incremental-like#readme"
+}
